@@ -1,0 +1,1 @@
+[{"payable":true,"stateMutability":"payable","type":"fallback"},{"constant":false,"inputs":[{"internalType":"bool","name":"acceptEther","type":"bool"}],"name":"setAcceptEther","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}]
